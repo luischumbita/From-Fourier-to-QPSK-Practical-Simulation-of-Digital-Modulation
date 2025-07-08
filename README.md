@@ -33,7 +33,10 @@ Estudiantes de Ingeniería en Sistemas de la Universidad Nacional de La Rioja (U
 ![Observa en tiempo real cómo afectan a la señal, su espectro, la constelación y la tasa de error (BER)](./1.jpeg)
 
 
-## 🚀 Cómo Ejecutarlo
+## 🚀 Cómo Ejecutarlo o como acceder
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/Fourier-QPSK-Simulation.git
+2. Tambien puedes acceder desde el siguiente link publico para todos los estudiantes y apasionados del area!
+   ```bash
+   https://drive.google.com/file/d/1xjU_Y2tW4OktXLmsWZrOp7v9N0zLfTu2/view?usp=sharing
